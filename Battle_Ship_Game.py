@@ -127,6 +127,7 @@ def new_game_exit_loop():
 
     if new_game == "Y":
         game_code()
+        new_game_exit_loop()
     else:
         print("Thanks for playing!")
         exit()
