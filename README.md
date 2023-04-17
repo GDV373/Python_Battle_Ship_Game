@@ -48,7 +48,7 @@ If the player hits the computer’s ships they win the game. If they fire all of
 
 * Able to reply the game without runnning the script again.
 
-### Featuers left to implement
+### **[Featuers left to implement](#features-left-to-implement)**
 
  * Add more ship for harder difficulty
  * An option for the User to decide on the size of the game board
@@ -64,12 +64,13 @@ If the player hits the computer’s ships they win the game. If they fire all of
 
 The code was built and tested using PyCharm using it to ensure there were no errors present, such as issues with indentation or whitespaces.
 
+![Screenshot of herokus error](/assets/images/PyCharm-errors-and-warnings.png "Screenshot of heroku`s error")<br> 
 
 ## **[Bugs](#bugs)**
 
 One bugs were encountered in developing this project:
 
--       Game would not loop more then one time becasue of missing line. This was latter added after further testing of the game in the def new_game_exit_loop(): where it needed to run again if player was to play more then 2 games.
+-       Game would not loop more than one time because of missing line. This was later added after further testing of the game in the def new_game_exit_loop(): where it needed to run again if player was to play more than 2 games.
 
 
 ‘Bugged’ code: 
@@ -114,6 +115,8 @@ def new_game_exit_loop():
 ##	**[Deployment](#deployment)**
 
 **Heroku**
+
+![Screenshot of herokus error](/assets/images/Screenshot_error_heroku.png "Screenshot of heroku`s error")<br> 
 
 Currently Heroku is not working propperly please follow the solution below to run the python game on a python web browser compiler
 
