@@ -38,6 +38,8 @@ If the player hits the computer’s ships they win the game. If they fire all of
 * Random board generation
   * Ships are randomly placed on the board by the computer so that the player cannot see where they are.
 
+![Screenshot of herokus error](/assets/images/Screenshot-battle-ship-start-game.png "Screenshot of heroku`s error")<br> 
+
 * Accepts player’s input.
 
 * Validates coordinates input by player.
@@ -46,7 +48,11 @@ If the player hits the computer’s ships they win the game. If they fire all of
 
 * Tells player how many turns or 'cannon balls' they have left.
 
+![Screenshot of herokus error](/assets/images/Screenshot-battle-ship-3-turns.png "Screenshot of heroku`s error")<br> 
+
 * Able to reply the game without runnning the script again.
+
+![Screenshot of herokus error](/assets/images/Screenshot-battle-ship-you-win.png "Screenshot of heroku`s error")<br> 
 
 ### **[Featuers left to implement](#features-left-to-implement)**
 
